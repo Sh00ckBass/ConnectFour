@@ -1,0 +1,4 @@
+name: ConnectFour
+version: '${project.version}'
+main: de.sh00ckbass.connectfour.ConnectFour
+author: Sh00ckBass
